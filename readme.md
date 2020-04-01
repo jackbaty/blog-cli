@@ -22,8 +22,12 @@ If you are publishing your blog by pushing to a remote Git repository you can us
 
 ## Install
 
+This isn't in the registry, so you can just clone or download it and install it manually.
+
 ```
-$ npm install --global @kahlil/blog-cli
+$ git clone https://github.com/jackbaty/blog-cli
+$ cd blog-cli/
+$ npm install --global
 ```
 
 ## Usage
